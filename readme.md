@@ -12,4 +12,7 @@ I last weekly schedual for my regular weekly commitments (school, work, gym, clu
 
 ## Example.
 
-TODO Add images.
+![cover view of jauary planner](https://github.com/AVDambeck/artist-planner/blob/main/examples/IMG_0529.JPG)
+![postit view of planner](https://github.com/AVDambeck/artist-planner/blob/main/examples/IMG_0530.JPG)
+![schedual view of planner](https://github.com/AVDambeck/artist-planner/blob/main/examples/IMG_0531.JPG)
+![pocket view of planner](https://github.com/AVDambeck/artist-planner/blob/main/examples/IMG_0532.JPG)
