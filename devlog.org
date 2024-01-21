@@ -2,3 +2,20 @@
 
 * <2024-01-20 Sat>
 Making a git repo for this project. Not really sure how to organize this all tbh. Here's the story: after trying a few different productivity methods, agendas, planners, etc, I decided I needed to make my own ✨special✨ artistic planner. And it looks like all the things exactly as I want. Making a git repo 1: to keep things organized because I am a freak and need all my files in order and yet this project, which I've been using since like October last year I think, is always getting ~updated~ remade in new places on new deceives. and 2: because a friend has also started using them so :^) hi J.
+
+Changes:
+- Added git repo and documentation and stuff. Welcome to the fold!
+- Calendar:
+  - Changed to Monday start.
+  - Added section for Word of the month.
+  - Changed to Wide weekend block.
+  - Added new style being applied dynamically.
+  - Added Iso Week numbers.
+- Schedules:
+  - Added new style being applied dynamically.
+  - Changed to 20 min blocks.
+    - The font is now smaller to accommodate, making the columns wider.
+  - Added an accent each hour.
+  - Added weekday headers.
+- Increased number of week schedules to seven, five for the month, plus one to act as a personal weekly template, and one to note the activities of facilities, partners, and other regular weekly events that are not a thing you always need to go to. (polyamory is for people with scheduling kinks)
+- Added a table for noting usage.
