@@ -4,7 +4,7 @@ I'm an artist who didn't like any of the available planner options. I make my ow
 
 ## Assembly.
 
-Okay so this is pageset on [bookbinder3.0](http://www.quantumelephant.co.uk/bookbinder/bookbinder.html) for letter paper on a duplux printer. Print it out in a lil booklet, fold it in half. Get a piece of card thats like 9x13" ish. Staple it like in the images (TODO add images). Add postits to the front. Add a pocket to the back. Cut a hole for a mechanical pencil. Add a binder clip and voila!
+Okay so this is pageset on [bookbinder3.0](http://www.quantumelephant.co.uk/bookbinder/bookbinder.html) for letter paper on a duplux printer. Print it out in a lil booklet, fold it in half. Get a piece of card thats like 9x13" ish. Staple it like in the examples. Add postits to the front. Add a pocket to the back. Add tape to the front to label it. Cut a hole for a mechanical pencil. Add a binder clip and voila!
 
 ## Usage.
 
@@ -12,4 +12,4 @@ I last weekly schedual for my regular weekly commitments (school, work, gym, clu
 
 ## Example.
 
-TODO Add examples.
+TODO Add images.
