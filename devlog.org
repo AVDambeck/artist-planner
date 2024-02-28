@@ -1,5 +1,15 @@
 #+title: Devlog
 
+* <2024-02-28 Wed>
+Changes:
+- Access log moved to front.
+- Calendar:
+  - Week numbers actually grey now (bug fix),
+  - Blank column slightly narrower to accomdate 2 digit week numbers.
+  - Weekend has dashed line dividing Saturday and Sunday.
+- Created loose schedual sheet.
+- New fonts for this month.
+
 * <2024-01-20 Sat>
 Making a git repo for this project. Not really sure how to organize this all tbh. Here's the story: after trying a few different productivity methods, agendas, planners, etc, I decided I needed to make my own ✨special✨ artistic planner. And it looks like all the things exactly as I want. Making a git repo 1: to keep things organized because I am a freak and need all my files in order and yet this project, which I've been using since like October last year I think, is always getting ~updated~ remade in new places on new deceives. and 2: because a friend has also started using them so :^) hi J.
 
