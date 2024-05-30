@@ -1,5 +1,13 @@
 #+title: Devlog
 
+* <2024-05-29 Wed>
+Changes:
+- Post-it Parking replaced with just a notes section.
+- Reflections "going in" -> "before".
+- Removed one week of schedual, added one spread of notes.
+- Schedual line color changed from black to dark grey. 
+- New fonts for this month.
+
 * <2024-02-28 Wed>
 Changes:
 - Access log moved to front.
