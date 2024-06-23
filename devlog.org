@@ -1,5 +1,8 @@
 #+title: Devlog
 
+* <2024-06-23 Sun>
+- New fonts for this month.
+
 * <2024-05-29 Wed>
 Changes:
 - Post-it Parking replaced with just a notes section.
